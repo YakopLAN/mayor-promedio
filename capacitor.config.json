@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "mayor_promedio",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
